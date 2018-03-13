@@ -16,7 +16,7 @@ iOS开发索引
 
 - 打包
 
-[iOS自动打包并发布脚本](https://www.jianshu.com/p/1229476fbce4)
+[iOS自动打包并发布脚本](https://www.jianshu.com/p/1229476fbce4)  
 [ios打包ipa的四种实用方法(.app转.ipa)](https://www.cnblogs.com/wengzilin/p/4601684.html)
 
 ## 工具相关
