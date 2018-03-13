@@ -17,7 +17,7 @@ iOS开发索引
 - 打包
 
 [iOS自动打包并发布脚本](https://www.jianshu.com/p/1229476fbce4)  
-[ios打包ipa的四种实用方法(.app转.ipa)](https://www.cnblogs.com/wengzilin/p/4601684.html)
+[ios打包ipa的四种实用方法(.app转.ipa)](https://www.cnblogs.com/wengzilin/p/4601684.html)  
 
 ## 工具相关
 
@@ -27,13 +27,13 @@ iOS开发索引
 
 - TestFlight
 
-[微信读书的 TestFlight 是怎么做到不问用户 AppleID 的 email 的？](https://www.v2ex.com/t/409914)
+[微信读书的 TestFlight 是怎么做到不问用户 AppleID 的 email 的？](https://www.v2ex.com/t/409914) 
 [iOS 平台 TestFlight 外部测试邀请码优化方案 | VinnyXiong's Notes](http://vinnyxiong.cn/blog/iOS-平台-TestFlight-外部测试邀请码优化方案.html)
 
 - git
 
-[gitlab/github 多账户下设置 ssh keys](https://segmentfault.com/a/1190000002994742)
-[git config 常用配置](https://segmentfault.com/a/1190000009369889)
+[gitlab/github 多账户下设置 ssh keys](https://segmentfault.com/a/1190000002994742) 
+[git config 常用配置](https://segmentfault.com/a/1190000009369889) 
 [Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 - CocoaPods
