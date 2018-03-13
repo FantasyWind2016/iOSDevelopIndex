@@ -27,28 +27,28 @@ iOS开发索引
 
 - TestFlight
 
-[微信读书的 TestFlight 是怎么做到不问用户 AppleID 的 email 的？](https://www.v2ex.com/t/409914) 
+[微信读书的 TestFlight 是怎么做到不问用户 AppleID 的 email 的？](https://www.v2ex.com/t/409914)  
 [iOS 平台 TestFlight 外部测试邀请码优化方案 | VinnyXiong's Notes](http://vinnyxiong.cn/blog/iOS-平台-TestFlight-外部测试邀请码优化方案.html)
 
 - git
 
-[gitlab/github 多账户下设置 ssh keys](https://segmentfault.com/a/1190000002994742) 
-[git config 常用配置](https://segmentfault.com/a/1190000009369889) 
+[gitlab/github 多账户下设置 ssh keys](https://segmentfault.com/a/1190000002994742)  
+[git config 常用配置](https://segmentfault.com/a/1190000009369889)  
 [Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 - CocoaPods
 
-[iOS安装CocoaPods详细过程](https://www.jianshu.com/p/9e4e36ba8574)
+[iOS安装CocoaPods详细过程](https://www.jianshu.com/p/9e4e36ba8574)  
 [使用Cocoapods创建私有podspec](http://www.cocoachina.com/ios/20150228/11206.html)
 
 - Reveal
 
-[分析iOS UI的利器Reveal安装破解教程](https://www.jianshu.com/p/0cc7089143a3)
+[分析iOS UI的利器Reveal安装破解教程](https://www.jianshu.com/p/0cc7089143a3)  
 [使用Reveal查看任意App的技巧](https://www.jianshu.com/p/4dc8f94ca27c)
 
 - Markdown
 
-[有哪些 Markdown 编辑器支持保存到印象笔记 Evernote？](https://www.zhihu.com/question/20086835)
+[有哪些 Markdown 编辑器支持保存到印象笔记 Evernote？](https://www.zhihu.com/question/20086835)  
 [Mac 下两款 Markdown 编辑器 Mou/MacDown 大 PK](https://www.jianshu.com/p/6c157af09e84)
 
 - 图标生成
@@ -59,7 +59,7 @@ iOS开发索引
 
 - Charles
 
-[Charles 4.0.1 Mac破解版](http://www.sdifen.com/charles401.html)
+[Charles 4.0.1 Mac破解版](http://www.sdifen.com/charles401.html)  
 [iOS 10.3下解决Charles抓包ssl证书信任问题](http://blog.csdn.net/zhangyu_h321/article/details/72900855)
 
 ## 操作系统
