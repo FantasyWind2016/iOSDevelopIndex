@@ -13,22 +13,6 @@
 					<key>url</key>
 					<string>https://mbeta.4007112366.com/m-wxqyh/wx-static/ios/SVOutSide.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://ad.infoxgame.com/YinHuOA-H5/images/logo_im.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://ad.infoxgame.com/YinHuOA-H5/images/logo_im.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
