@@ -11,11 +11,35 @@ iOS开发相关的知识可以分为以下几大部分：
 
 ## Objective-C
 
+### 应用架构
+
+#### DI
+
+介绍文章
+[Dependency Injection, iOS and You](https://www.bignerdranch.com/blog/dependency-injection-ios/)
+
+开源框架推荐  
+[objection](https://github.com/atomicobject/objection)  
+[Typhoon](https://github.com/appsquickly/Typhoon)
+
+框架比较
+[iOS项目依赖注入简介](http://www.cnblogs.com/itsApe/p/5779143.html)
+
 ### 开源解读
 
 - AFNetworking  
   [AFNetworking到底做了什么？](https://www.jianshu.com/p/856f0e26279d) by 涂耀辉  
 - SDWebImage
+
+## Swift
+
+### 应用架构
+
+#### DI
+
+开源框架推荐  
+[FieryCrucible](https://github.com/jkolb/FieryCrucible)  
+[Typhoon](https://github.com/appsquickly/Typhoon)
 
 ## 开发工具
 
